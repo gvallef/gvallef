@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá! Tudo bem? Meu nome é Gabriel e esse é o meu perfil:
+Olá! Tudo bem? Meu nome é Gabriel e esse é o meu perfil
 </h1>
 <br>
 <div align="center">
